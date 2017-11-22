@@ -1,0 +1,20 @@
+PowerShell:
+
+pwd
+cd ~
+mkdir
+cd
+cd ..
+cd ../../..
+rmdir
+pushd
+popd
+
+
+python:
+
+print
+comment
+variable
+format string
+escape sequences
