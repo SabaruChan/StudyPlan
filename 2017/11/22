@@ -1,4 +1,4 @@
-PowerShell:
+>>> PowerShell <<<
 
 pwd
 cd ~
@@ -7,11 +7,9 @@ cd
 cd ..
 cd ../../..
 rmdir
-pushd
-popd
 
 
-python:
+>>> python <<<
 
 print
 comment
