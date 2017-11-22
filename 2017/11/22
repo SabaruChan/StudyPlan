@@ -2,10 +2,10 @@
 
 pwd
 cd ~
-mkdir
 cd
 cd ..
 cd ../../..
+mkdir
 rmdir
 
 
