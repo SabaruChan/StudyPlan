@@ -1,0 +1,20 @@
+>>> PowerShell <<<
+
+pushd
+popd
+touch
+New-Item
+cp
+mv
+less
+MORE
+rm
+exit
+forfiles*
+runas*
+attrib*
+icacls*
+
+
+>>> python <<<
+
